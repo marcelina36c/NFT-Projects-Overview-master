@@ -3,7 +3,7 @@
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, slot, etc). All of repos are under private status.
 
 
-<h3><u><strong><i>Meegos NFT Marketplace</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>Meegos NFT pnft Marketplace</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 
