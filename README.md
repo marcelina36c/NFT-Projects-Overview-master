@@ -1,4 +1,4 @@
-# <i>Blockchain Projects on EVM(Ethereum, Binance, Avalanche, Polygon, Aurora), Solana, Cardano, and so on.</i>
+# <i>Blockchain Projects on EVM(Ethereum, Binance, Avalanche, Polygon, Aurora), Cardano, and so on.</i>
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, slot, etc). All of repos are under private status.
 
